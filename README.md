@@ -31,7 +31,7 @@ Soy bachiller en Ingeniería de Sistemas con experiencia en gestión y validaci�
 ---
 
 ## 📊 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=reinh5678-cloud&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=reinh5678-cloud&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
