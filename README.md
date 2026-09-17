@@ -13,7 +13,7 @@ Bachiller en Ingeniería de Sistemas con experiencia en aplicaciones empresarial
 
 ## 👨‍💻 Sobre mí
 
-Actualmente participo en proyectos de software en **Cuántica Group**, trabajando en el análisis, desarrollo, mantenimiento y despliegue de soluciones de CRM, inventario, órdenes de trabajo, asistencia, comercio electrónico, reportes y portales web.
+Actualmente participo en proyectos de software, trabajando en el análisis, desarrollo, mantenimiento y despliegue de soluciones de CRM, inventario, órdenes de trabajo, asistencia, comercio electrónico, reportes y portales web.
 
 Me enfoco en comprender los procesos del negocio, construir funcionalidades mantenibles y resolver incidencias de integración y producción de forma verificable.
 
@@ -59,13 +59,6 @@ Aplicaciones empresariales  •  APIs REST  •  Bases de datos
 Integración frontend/backend  •  Docker  •  Despliegues
 Diagnóstico de incidencias  •  Reportes y visualización de datos
 ```
-
-## 📊 Estadísticas
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=reinh5678-cloud&show_icons=true&theme=transparent&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinh5678-cloud&layout=compact&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más utilizados" />
-</div>
 
 ## 📫 Contacto
 
